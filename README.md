@@ -1,5 +1,9 @@
 # LandingPage
 
+This is a basic landing page with Angular 17.
+
+Based in: https://www.youtube.com/watch?v=O26fDEnAukY
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
 
 ## Development server
